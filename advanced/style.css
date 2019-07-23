@@ -1,19 +1,26 @@
 body {
+    font-family: 'Open Sans', sans-serif;
     color: red;
+    background-color: oldlace;
     text-align: center
     
 
 }
 
-p {
+#name{
+    font: bold 26px arial;
     color: lightblue;
 
 
 }
 
+
+
+
+
 h1 {
     margin: 15px;
-    border: solid;
+    border: solid 4px;
     border-color: darkblue;
     padding: 20px;
 
